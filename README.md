@@ -44,6 +44,6 @@ Exception:
   
  # Steps to reproduce the issue
  1. Clone the code
- 2. Restore the DB using the backup file DbBackup.sql
+ 2. Restore the DB using the backup file `demo.sql`
  3. Update connection string in demoContext.cs
  4. Run/Debug the console app
