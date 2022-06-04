@@ -7,7 +7,8 @@
 - VS 2022
 
 # Issue
-When using MySQL .NET connector 6.0.1 in .NET 6, Performing an equality check on Datetime.Date throws an ArgumentOutOfRangeException.
+When using MySQL .NET connector 6.0.1 in .NET 6, performing an equality check on Datetime.Date throws an ArgumentOutOfRangeException.
+
 
 Exception:
 
